@@ -27,6 +27,6 @@ interacting with The One API.
 
 The `TheOneAPIClient` class has the following methods:
 
-`get_movie`: Get a movie by its ID.
-`list_movies`: List movies with optional pagination and filters.
-`list_movie_quotes`: List movie quotes with optional pagination and filters.
+- `get_movie`: Get a movie by its ID.
+- `list_movies`: List movies with optional pagination and filters.
+- `list_movie_quotes`: List movie quotes with optional pagination and filters.
