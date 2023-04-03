@@ -5,7 +5,7 @@ This is an SDK for The One API, a RESTful API providing information about The Lo
 ## Installation
 
 ```bash
-pip install hybrid-slug-sdk
+pip install hybrid-slug
 ```
 
 ## Usage
